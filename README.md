@@ -1,253 +1,284 @@
 # ITI-PD-BI-CRM-9months
 
 📘 Professional Development & BI-infused CRM — Course Catalog
+Structured, organized, and visually clean for long-term tracking
 
-Welcome to the Official Learning Hub for the
-Professional Development & Business Intelligence-infused CRM Track.
+<div align="center">
+🎓 **PD & BI-infused CRM
 
-This repository organizes every course, task, project, certificate, and summary you will work on during the program — all structured in a clean, scalable, future-proof format.
+Full Course Catalog**
 
-The purpose of this file is to give a clear, well-organized description of all courses, so you can easily navigate, link folders, track progress, and prepare your materials.
+🔥 A complete roadmap containing all courses you will study in the track, organized clearly and ready for folder linking.
 
-🚀 Track Overview
+</div>
 
-The program consists of several major learning areas:
+🌟 Track Content Overview
 
-Software Development Fundamentals
+This program covers the following major learning areas:
 
-Software Design & Architecture
+🧱 Software Development Fundamentals
 
-Front-End & MEAN Stack Development
+🧠 Software Design & Architecture
 
-.NET Core & Enterprise Web Applications
+🎨 Front-End & MEAN Stack Development
 
-Business Intelligence & Data Warehousing
+⚙️ .NET Core & Enterprise Web Applications
 
-Microsoft Power Platform & Dynamics 365 CRM
+📊 Business Intelligence & Data Warehousing
 
-Soft Skills & Professional Development
+🧩 Power Platform & Microsoft Dynamics 365 CRM
 
-Each category below lists the courses included in the track with short descriptions.
+💼 Soft Skills & Professional Growth
 
-📚 COURSES BREAKDOWN
+Each section below contains:
+
+✔ Course name
+
+✔ Short description
+
+✔ Suggested folder name
+
+📚 COURSE CATALOG
 1️⃣ Software Development Fundamentals & Essentials
-Operating Systems Fundamentals
+🖥 Operating Systems Fundamentals
 
-Understand processes, threads, memory, file systems.
+Understand processes, threads, memory, and file systems.
 📁 1-Operating-Systems/
 
-Computer Networks & Cyber Security
+🌐 Computer Networks & Cyber Security
 
-Basics of networking + intro to security.
+Networking basics: HTTP, DNS, TCP/IP + intro to security.
 📁 2-Networks-CyberSecurity/
 
-Introduction to Programming
+🧩 Introduction to Programming
 
-Logic, loops, functions, problem-solving.
+Logic, variables, loops, functions, and problem-solving.
 📁 3-Intro-to-Programming/
 
-Database Fundamentals (SQL Server)
+🗄 Database Fundamentals
 
-SQL queries, ERD, relationships, constraints.
+ERDs, SQL, data types, constraints, relationships.
 📁 4-Database-Fundamentals/
 
-Data Structures & Algorithms
+🧮 Data Structures & Algorithms
 
-Arrays, stacks, linked lists, sorting, searching.
+Arrays, linked lists, sorting, searching, Big-O.
 📁 5-DSA/
 
-Object-Oriented Programming Concepts
+🏛 Object-Oriented Programming Concepts
 
-OOP pillars: abstraction, encapsulation, inheritance, polymorphism.
+Abstraction, encapsulation, inheritance, polymorphism.
 📁 6-OOP/
 
-Introduction to Software Engineering
+🛠 Introduction to Software Engineering
 
-SDLC, documentation, testing, requirements.
+SDLC, requirements, testing, documentation, architecture.
 📁 7-Software-Engineering/
 
 2️⃣ Software Design Methodologies
-Agile Software Development
+🚀 Agile Software Development
 
-Scrum, sprints, standups, user stories.
+Scrum, sprint planning, standups, team workflow.
 📁 8-Agile/
 
-Introduction to DevOps
+🔧 Introduction to DevOps
 
-CI/CD, pipelines, automation, Git workflows.
+CI/CD, automation, Git, pipelines, deployments.
 📁 9-DevOps/
 
 3️⃣ Front-End & MEAN Stack Development
-HTML5 & CSS3
+🎨 HTML5 & CSS3
 
-Structure + styling using modern layout systems.
+Page structure + modern layouts (Flexbox, Grid).
 📁 10-HTML-CSS/
 
-Responsive Web Fundamentals
+📱 Responsive Web Fundamentals
 
-Adaptive layouts & mobile-friendly design.
+Mobile-first UI design.
 📁 11-Responsive-Design/
 
-Advanced JavaScript + ES.Next
+⚡ Advanced JavaScript + ES.Next
 
-Async JS, classes, fetch API, modules.
+Async JS, modules, classes, promises, fetch API.
 📁 12-JavaScript/
 
-TypeScript
+🧵 TypeScript
 
-Strong typing, interfaces, generics.
+Generics, interfaces, strong typing, reusable code.
 📁 13-TypeScript/
 
-jQuery Fundamentals
+🧩 jQuery Fundamentals
 
-DOM manipulation & UI components.
+DOM manipulation, animations, simple components.
 📁 14-jQuery/
 
-Angular Fundamentals
+🅰 Angular Fundamentals
 
-Components, routing, DI, services.
+Components, routing, services, DI, best practices.
 📁 15-Angular/
 
-Node.js Fundamentals
+🟩 Node.js Fundamentals
 
-Servers, NPM, backend basics.
+Servers, HTTP modules, file system, NPM.
 📁 16-NodeJS/
 
-MongoDB
+🍃 MongoDB
 
-NoSQL DB, CRUD operations, modeling.
+Collections, documents, CRUD operations, NoSQL models.
 📁 17-MongoDB/
 
 4️⃣ .NET Core & Enterprise Web Development
-Visual C# .NET
+💻 Visual C# .NET
 
-C# fundamentals + OOP applied.
+C# fundamentals + OOP applied in real systems.
 📁 18-CSharp/
 
-Advanced SQL Server Programming
+🧠 Advanced SQL Server Programming
 
-Stored procedures, indexing, optimization.
+Stored procedures, indexing, triggers, performance tuning.
 📁 19-Advanced-SQL/
 
-LINQ
+🔍 LINQ
 
-Query collections and DB with C#.
+Querying collections & DB with elegant C# syntax.
 📁 20-LINQ/
 
-ASP.NET Core MVC
+🏗 ASP.NET Core MVC
 
-Enterprise MVC apps + controllers & models.
+Enterprise full-stack MVC apps.
 📁 21-ASP-NET-Core-MVC/
 
-ASP.NET Core Web API
+🔌 ASP.NET Core Web API
 
-RESTful APIs for mobile & web.
+RESTful APIs for web/mobile.
 📁 22-Web-API/
 
-ASP.NET SignalR
+💬 ASP.NET SignalR
 
-Real-time apps (chat, dashboards).
+Real-time communication (chats, notifications).
 📁 23-SignalR/
 
-ASP.NET Blazor
+🔷 ASP.NET Blazor
 
-Interactive UIs using C# instead of JS.
+Interactive UIs using C# instead of JavaScript.
 📁 24-Blazor/
 
-Entity Framework Core
+🧱 Entity Framework Core
 
-Migrations, relationships, ORM, queries.
+ORM, queries, migrations, fluent API, relationships.
 📁 25-EF-Core/
 
-SOLID Principles
+🧭 SOLID Principles
 
-Clean, scalable, maintainable code.
+Writing scalable, readable systems.
 📁 26-SOLID/
 
-Design Patterns
+🧩 Design Patterns
 
-Factory, Singleton, Strategy, Repository.
+Factory, Repository, Strategy, Singleton…
 📁 27-Design-Patterns/
 
-Unit Testing
+🧪 Unit Testing
 
-Testing APIs, services, logic.
+Testing controllers, APIs, services.
 📁 28-Unit-Testing/
 
-IIS Administration
+🌐 IIS Administration
 
-Deploy & manage apps on IIS.
+Deploying & configuring web applications.
 📁 29-IIS/
 
-Azure Fundamentals
+☁ Azure Fundamentals
 
-Cloud services, deployment, architecture.
+Cloud basics, services, deployments.
 📁 30-Azure/
 
-Azure DevOps
+🔁 Azure DevOps
 
-Pipelines, repos, release management.
+Pipelines, repos, boards, releases.
 📁 31-Azure-DevOps/
 
 5️⃣ Business Intelligence
-SQL Server Business Intelligence (SSIS, SSAS, SSRS)
+🟦 SQL Server Business Intelligence
 
-ETL, cubes, reporting solutions.
+SSIS, SSAS, SSRS — ETL, cubes & reporting.
 📁 32-SQL-BI/
 
-Power BI
+📊 Power BI
 
-DAX, dashboards, data models.
+DAX, models, dashboards, storytelling.
 📁 33-PowerBI/
 
-Data Warehouse
+🏛 Data Warehouse
 
-Star schema, facts, dimensions.
+Facts, dimensions, star schema, modeling.
 📁 34-Data-Warehouse/
 
-Data Mining Algorithms
+🤖 Data Mining Algorithms
 
-Classification, clustering, predictive modeling.
+Clustering, classification, predictive analytics.
 📁 35-Data-Mining/
 
-Statistics & Calculus (Elective)
+📘 Elective: Statistics & Calculus
 
-Math for data modeling & analytics.
+Math tools for analytics & BI logic.
 📁 36-Statistics/
 
-6️⃣ Microsoft Dynamics CRM (Power Platform & Dynamics 365)
-Power Platform Fundamentals
+6️⃣ Microsoft Dynamics CRM & Power Platform
+⚡ Power Platform Fundamentals
 
-Power Automate, Power Apps basics.
+Automations, connectors, low-code apps.
 📁 37-Power-Platform/
 
-Advanced Power Platform
+🔧 Advanced Power Platform
 
-Advanced connectors, governance.
+Complex flows, integrations, environments.
 📁 38-Advanced-Power-Platform/
 
-Dynamics 365 Customer Engagement
+🧩 Dynamics 365 Customer Engagement
 
-Entities, forms, workflows, customization.
+Entities, forms, workflows, business rules.
 📁 39-Dynamics-CRM/
 
-Power Apps
+📱 Power Apps
 
-Canvas apps + model-driven apps.
+Canvas apps, model-driven apps, Dataverse.
 📁 40-Power-Apps/
 
-Dynamics 365: Sales & Customer Service
+🧭 Dynamics 365 Sales & Customer Service
 
-Business process automation & CRM flows.
+Enterprise CRM modules & automation.
 📁 41-Dynamics-Modules/
 
 7️⃣ Soft Skills & Professional Development
+💬 Communication Skills
 
 📁 42-Communication/
+
+🎤 High Impact Presentations
+
 📁 43-Presentations/
+
+🤖 AI-based Coding Tools
+
 📁 44-AI-Tools/
+
+🧠 Developing Gen-AI Software
+
 📁 45-GenAI/
+
+🧳 Job Seeking Skills
+
 📁 46-Job-Skills/
+
+👔 Professional Demeanor
+
 📁 47-Demeanor/
+
+🏠 Remote Work Best Practices
+
 📁 48-Remote-Work/
+
+👥 Teamwork & Leadership
+
 📁 49-Leadership/
