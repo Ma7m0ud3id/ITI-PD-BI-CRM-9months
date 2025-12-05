@@ -1,0 +1,20 @@
+[Tue Nov 18 06:16:37 2025] DBManager initialized
+[Tue Nov 18 06:16:52 2025] ERROR: Connection failed: C:\Dev\Libraries\nanodbc\nanodbc\nanodbc.cpp:1284: 08001: [Microsoft][ODBC Driver 17 for SQL Server]SQL Server Network Interfaces: Error Locating Server/Instance Specified [xFFFFFFFF].  
+[Tue Nov 18 06:16:52 2025] DBManager destroyed
+[Tue Nov 18 15:15:26 2025] DBManager initialized
+[Tue Nov 18 15:15:27 2025] Connected to database successfully
+[Tue Nov 18 15:15:33 2025] Retrieved 7 books
+[Tue Nov 18 15:16:03 2025] Retrieved 6 available books
+[Tue Nov 18 15:17:01 2025] Disconnected from database
+[Tue Nov 18 15:17:01 2025] DBManager destroyed
+[Wed Nov 19 06:27:41 2025] DBManager initialized
+[Wed Nov 19 06:27:41 2025] Connected to database successfully
+[Wed Nov 19 06:29:13 2025] Retrieved 7 books
+[Wed Nov 19 06:29:44 2025] Disconnected from database
+[Wed Nov 19 06:29:44 2025] DBManager destroyed
+[Wed Nov 19 12:51:10 2025] DBManager initialized
+[Wed Nov 19 12:51:10 2025] Connected to database successfully
+[Wed Nov 19 12:51:14 2025] Retrieved 6 available books
+[Wed Nov 19 12:51:30 2025] Retrieved 3 members
+[Wed Nov 19 12:51:59 2025] Disconnected from database
+[Wed Nov 19 12:51:59 2025] DBManager destroyed
