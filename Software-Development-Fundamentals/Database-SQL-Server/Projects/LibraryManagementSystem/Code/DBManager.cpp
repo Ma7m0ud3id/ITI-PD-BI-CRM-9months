@@ -39,21 +39,16 @@ DBManager::~DBManager() {
 void DBManager::log(const std::string& message) {
     if (logFile.is_open()) {
         time_t now = time(nullptr);
-        char* timePtr = std::ctime(&now); // استخدام الدالة القياسية
+        char* timePtr = std::ctime(&now); 
 
-        // استخدام strncpy بدلاً من strcpy لضمان الأمان
+        
         char timeStr[26]; 
-        // نسخ 24 حرف فقط (بدون الـ newline) وتأكد من الإنهاء بـ '\0'
+        
         std::strncpy(timeStr, timePtr, 25); 
-        timeStr[25] = '\0'; // ضمان الإنهاء الصفري
-
-        // التعديل السابق كان: timeStr[24] = '\0'; // Remove newline
-        // يمكن الاستغناء عن timeStr[24] = '\0'; إذا استخدمنا strncpy(..., 24) ثم timeStr[24] = '\0'
-
-        // نستخدم هذا التعديل الأبسط الذي يحل مشكلة الـ newline:
+        timeStr[25] = '\0'; 
+       
         std::string timeString = timePtr;
-        timeString.pop_back(); // إزالة حرف السطر الجديد ('\n') من النهاية
-
+        timeString.pop_back(); 
         logFile << "[" << timeString << "] " << message << std::endl;
     }
 }
