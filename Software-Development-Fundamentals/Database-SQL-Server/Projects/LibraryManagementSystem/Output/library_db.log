@@ -1,0 +1,29 @@
+[Fri Dec 05 16:04:34 2025] DBManager initialized
+[Fri Dec 05 16:04:34 2025] Connected to database successfully
+[Fri Dec 05 16:17:59 2025] Retrieved 7 books
+[Fri Dec 05 16:18:28 2025] Retrieved 3 members
+[Fri Dec 05 16:19:05 2025] DBManager initialized
+[Fri Dec 05 16:19:05 2025] Connected to database successfully
+[Fri Dec 05 16:19:10 2025] Retrieved 7 books
+[Fri Dec 05 16:19:17 2025] Retrieved 6 available books
+[Fri Dec 05 16:19:49 2025] Retrieved 3 members
+[Fri Dec 05 16:20:30 2025] Member created: mahmoud ali
+[Fri Dec 05 16:20:38 2025] Retrieved 4 members
+[Fri Dec 05 16:20:52 2025] Retrieved 5 categories
+[Fri Dec 05 16:21:09 2025] Retrieved 3 borrowings
+[Fri Dec 05 16:21:51 2025] DBManager initialized
+[Fri Dec 05 16:21:51 2025] Connected to database successfully
+[Fri Dec 05 16:21:56 2025] Retrieved 4 members
+[Fri Dec 05 16:22:14 2025] Retrieved 5 categories
+[Fri Dec 05 16:24:34 2025] ERROR: Create book failed: C:\Dev\Libraries\nanodbc\nanodbc\nanodbc.cpp:2060: 23000: [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Books_Categories". The conflict occurred in database "LibraryDB", table "dbo.Categories", column 'CategoryID'. 
+[Fri Dec 05 16:50:21 2025] Disconnected from database
+[Fri Dec 05 16:50:21 2025] DBManager destroyed
+[Fri Dec 05 16:50:28 2025] DBManager initialized
+[Fri Dec 05 16:50:28 2025] Connected to database successfully
+[Fri Dec 05 16:50:30 2025] Retrieved 1 reservations
+[Fri Dec 05 16:51:48 2025] ERROR: Create reservation failed: C:\Dev\Libraries\nanodbc\nanodbc\nanodbc.cpp:2060: 23000: [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Reservations_Books". The conflict occurred in database "LibraryDB", table "dbo.Books", column 'BookID'. 
+[Fri Dec 05 16:52:19 2025] Calculated fines for 0 borrowings
+[Fri Dec 05 16:52:36 2025] Calculated fines for 0 borrowings
+[Fri Dec 05 16:52:51 2025] Calculated fines for 0 borrowings
+[Fri Dec 05 16:53:00 2025] Connection test successful
+[Fri Dec 05 16:54:00 2025] Retrieved 5 categories
